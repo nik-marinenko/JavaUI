@@ -1,6 +1,3 @@
-package com.company;
-
-import javax.swing.*;
 
 class ContentPaneTest extends JFrame{
     public ContentPaneTest()
